@@ -29,5 +29,6 @@ I build web and desktop applications in Java, Python and JavaScript. Before movi
 
 ##  Let's connect
 
+- 📄 [Download my CV](https://github.com/JorgeVII/JorgeVII/blob/main/CV_Jorge.pdf)
 - ✉️ jorge.delgado.mtnez@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/jorge-delgado-435b86442/)
